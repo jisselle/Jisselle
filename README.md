@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌴 West Coast born & raised. <br><br>💻 I’m currently working on .NET Web applications <br><br>🌱 I’m currently learning React and Angular<br><br>📫 How to reach me jissellegarcia5@gmail.com<br><br>📄 Check out my resume: [https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing](https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing)<br><br>⚡ Fun fact: I love challenging myself, I ran my first 5 mile race this Thanksgiving!<br>
+ 🌴 West Coast born & raised. <br><br>💻 I’m currently working on .NET Web applications <br><br>🌱 I’m currently learning React and Angular<br><br>📫 How to reach me jissellegarcia5@gmail.com<br><br>📄 Check out my resume (feedback welcomed): [https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing](https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing)<br><br>⚡ Fun fact: I love challenging myself, I ran my first 5 mile race this Thanksgiving!<br>
 
 
 ## 🌐 Socials:
