@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🌴 West Coast born & raised. <br><br> 🖥️ Where I have worked: @Goat @Legitmark @BPSTechnologies <br> www.goat.com <br><br> https://legitmark.com/  <br> (https://www.bpstechnologies.com/) <br><br>  💻 I’m currently working on .NET Web applications <br>🌱 I’m currently learning React and Angular <br>📄 Check out my resume (feedback welcomed): [https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing](https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing)<br>⚡ Fun fact: I love challenging myself, I ran my first 5 mile race this Thanksgiving!<br>
+ 🌴 West Coast born & raised. <br><br> 🖥️ Where I have worked: @Goat @Legitmark @BPSTechnologies <br> www.goat.com <br> https://legitmark.com/  <br> (https://www.bpstechnologies.com/) <br><br>  💻 I’m currently working on .NET Web applications <br>🌱 I’m currently learning React and Angular <br>📄 Check out my resume (feedback welcomed): [https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing](https://drive.google.com/file/d/1gDB1myyrFx_YRq0qs8U7bqZ5TKg_cW_y/view?usp=sharing)<br>⚡ Fun fact: I love challenging myself, I ran my first 5 mile race this Thanksgiving!<br>
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
