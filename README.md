@@ -11,6 +11,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jisselle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jisselle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jisselle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
